@@ -1,0 +1,52 @@
+19:54:23.209 [main] INFO  testCases.TC_001_AccountregistrationTest - ***TC_001_AccountregistrationTes finished
+19:54:27.820 [main] INFO  testCases.TC_002LoginTest - starting TC_002LoginTest
+19:54:29.356 [main] INFO  testCases.TC_002LoginTest - finishing TC_002LoginTest
+19:54:29.356 [main] INFO  testCases.TC_002LoginTest - finishing TC_002LoginTest
+19:59:27.304 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+19:59:29.931 [main] INFO  testCases.TC_003LoginDataDrivenTest - finishing TC_002LoginTest
+19:59:29.963 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+19:59:41.242 [main] INFO  testCases.TC_003LoginDataDrivenTest - finishing TC_002LoginTest
+19:59:41.242 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+19:59:52.436 [main] INFO  testCases.TC_003LoginDataDrivenTest - finishing TC_002LoginTest
+19:59:52.436 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+20:00:04.092 [main] INFO  testCases.TC_003LoginDataDrivenTest - finishing TC_002LoginTest
+20:00:04.092 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+20:00:07.853 [main] INFO  testCases.TC_003LoginDataDrivenTest - finishing TC_002LoginTest
+20:40:56.747 [main] INFO  testCases.TC_001_AccountregistrationTest - *********TC_001_AccountregistrationTest started**************
+20:40:56.780 [main] INFO  testCases.TC_001_AccountregistrationTest - clicking on My Account link.....
+20:40:56.908 [main] INFO  testCases.TC_001_AccountregistrationTest - clicking on my Register link
+20:40:57.692 [main] INFO  testCases.TC_001_AccountregistrationTest - customer details providing
+20:40:59.030 [main] INFO  testCases.TC_001_AccountregistrationTest - Registration successfull
+20:40:59.030 [main] INFO  testCases.TC_001_AccountregistrationTest - ***TC_001_AccountregistrationTes finished
+20:41:03.452 [main] INFO  testCases.TC_002LoginTest - starting TC_002LoginTest
+20:41:04.989 [main] INFO  testCases.TC_002LoginTest - finishing TC_002LoginTest
+20:41:04.989 [main] INFO  testCases.TC_002LoginTest - finishing TC_002LoginTest
+20:57:55.796 [main] INFO  testCases.TC_001_AccountregistrationTest - *********TC_001_AccountregistrationTest started**************
+20:57:55.828 [main] INFO  testCases.TC_001_AccountregistrationTest - clicking on My Account link.....
+20:57:55.898 [main] INFO  testCases.TC_001_AccountregistrationTest - clicking on my Register link
+20:57:56.568 [main] INFO  testCases.TC_001_AccountregistrationTest - customer details providing
+20:57:57.869 [main] INFO  testCases.TC_001_AccountregistrationTest - Registration successfull
+20:57:57.879 [main] INFO  testCases.TC_001_AccountregistrationTest - ***TC_001_AccountregistrationTes finished
+20:58:02.129 [main] INFO  testCases.TC_002LoginTest - starting TC_002LoginTest
+20:58:03.493 [main] INFO  testCases.TC_002LoginTest - finishing TC_002LoginTest
+20:58:03.493 [main] INFO  testCases.TC_002LoginTest - finishing TC_002LoginTest
+22:48:01.755 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:48:05.140 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:48:05.177 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:48:16.883 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:48:16.891 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:48:28.821 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:48:28.826 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:48:40.626 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:48:40.629 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:48:43.715 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:55:49.060 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:55:52.361 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:55:52.387 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:56:03.742 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:56:03.745 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:56:15.004 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:56:15.006 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:56:26.743 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:56:26.744 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
+22:56:29.533 [main] INFO  testCases.TC_003LoginDataDrivenTest - starting TC_003LoginDataDrivenTest
